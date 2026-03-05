@@ -99,20 +99,15 @@ Serial correlation detected → HC1 robust standard errors applied to final mode
 
 ## Figures
 
-![GDP Growth Trends](figures/gdp_trends.png)
-*GDP growth over time across all 10 economies. Sharp contraction visible in 2020 (COVID-19).*
+## Figures
 
-![Inflation vs Growth](figures/inflation_growth.png)
-*Negative relationship between inflation and growth. Countries with high inflation (Pakistan, Sri Lanka) consistently grow slower.*
+![GDP Growth Trends](gdp_trends.png)
 
-![FDI vs Growth](figures/fdi_growth.png)
-*Positive relationship between FDI inflows and growth.*
-
-![Average Growth by Country](figures/avg_growth.png)
-*China and Viet Nam lead on average growth. Thailand and Sri Lanka at the bottom.*
-
-![Correlation Matrix](figures/correlation.png)
-*Investment has the strongest positive correlation with growth (0.39). Inflation most negative (−0.32).*
+Other charts:
+- [Inflation vs Growth](inflation_growth.png)
+- [FDI vs Growth](fdi_growth.png)
+- [Average Growth by Country](avg_growth.png)
+- [Correlation Matrix](correlation.png)
 
 ---
 
