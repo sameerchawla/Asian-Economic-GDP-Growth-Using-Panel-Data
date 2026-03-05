@@ -101,15 +101,15 @@ Serial correlation detected → HC1 robust standard errors applied to final mode
 
 ## Figures
 
-![GDP Growth Trends](gdp_trends.png)
+## Figures
+
+![GDP Growth Trends](figures/gdp_trends.png)
 
 Other charts:
 - [Inflation vs Growth](inflation_growth.png)
 - [FDI vs Growth](fdi_growth.png)
 - [Average Growth by Country](avg_growth.png)
 - [Correlation Matrix](correlation.png)
-
----
 
 ## How to Run
 
