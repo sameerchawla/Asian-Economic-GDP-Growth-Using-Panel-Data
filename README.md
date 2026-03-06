@@ -97,9 +97,7 @@ Serial correlation detected → HC1 robust standard errors applied to final mode
 
 ---
 
-## Figures
 
-## Figures
 
 ## Figures
 
